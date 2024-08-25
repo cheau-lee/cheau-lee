@@ -1,8 +1,8 @@
 ## Hello, I'm Cheau! 👋
 
-- 🎓 An enthusiastic MSc Bioinformatics student at Queen Mary University of London, passionate about leveraging computational techniques to advance research.
-- 🔬 I'm currently working on my thesis titled *"The Druggability Analysis of Heart Failure: Unveiling Therapeutic Targets and Drug Repurposing Opportunities"*.
-- 🌟 My journey has led me to the exciting intersection of computational biology and data science, where I leverage my analytical skills and cutting-edge techniques to extract valuable insights from complex datasets.
+- 🎓 An enthusiatic MSc Bioinformatics graduate from Queen Mary University of London.
+- 🔬 MSc thesis *"The Druggability Analysis of Heart Failure: Unveiling Therapeutic Targets and Drug Repurposing Opportunities"*.
+- 🌟 Passionate about leveraging computational biology, data science, and machine learning to extract and analyse valuable insights from complex datasets.
 
 ### 💻 Tech Stack:
 
